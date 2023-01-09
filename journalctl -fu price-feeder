@@ -1,0 +1,207 @@
+Jan 09 14:35:22 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:22 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:22 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF skipping until next voting period current_vote_period=940183 module=oracle previous_vote_period=940183 vote_period=5
+Jan 09 14:35:23 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:23 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:23 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF skipping until next voting period current_vote_period=940183 module=oracle previous_vote_period=940183 vote_period=5
+Jan 09 14:35:24 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:24 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:24 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF broadcasting vote exchange_rates=ATOM:11.328280321693712723,DAI:0.999723664460580379,ETH:1322.364916797718572073,UMEE:0.006831512844393423,USDC:1.000023528765711376,USDT:0.999817480342071006,WBTC:17275.233843771442025505 feeder=umee1l0pfznlpxhs6tq2thcml8z3etrm2sh2wzpmjx6 module=oracle validator=umeevaloper1yx6dp2hy5ll6qlg6u8zlwgpadyxcnca3m4ldq2
+Jan 09 14:35:25 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG sending websocket message module=oracle msg={"pong":1673271325103} provider=huobi
+Jan 09 14:35:29 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF successfully broadcasted tx module=oracle_client tx_code=0 tx_hash=D069B197F2A1A730368E27927C45CB983ABBB1691E457496256A1138F5157407 tx_height=0
+Jan 09 14:35:30 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG sending websocket message module=oracle msg={"pong":1673271330188} provider=huobi
+Jan 09 14:35:30 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG sending websocket message module=oracle msg={"id":1673271330337,"method":"public/respond-heartbeat"} provider=crypto
+Jan 09 14:35:30 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:30 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:30 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF broadcasting pre-vote feeder=umee1l0pfznlpxhs6tq2thcml8z3etrm2sh2wzpmjx6 hash=9e587c25d06882a1e673981a58e2b82967d32e8a module=oracle validator=umeevaloper1yx6dp2hy5ll6qlg6u8zlwgpadyxcnca3m4ldq2
+Jan 09 14:35:35 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG sending websocket message module=oracle msg={"pong":1673271335245} provider=huobi
+Jan 09 14:35:35 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF successfully broadcasted tx module=oracle_client tx_code=0 tx_hash=D005E1E427D566C48F114591211FD775A08D69595E91933CE2C3E4D76C778628 tx_height=0
+Jan 09 14:35:36 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:36 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:36 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF skipping until next voting period current_vote_period=940184 module=oracle previous_vote_period=940184 vote_period=5
+Jan 09 14:35:37 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:37 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:37 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF skipping until next voting period current_vote_period=940184 module=oracle previous_vote_period=940184 vote_period=5
+Jan 09 14:35:38 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:38 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:38 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF skipping until next voting period current_vote_period=940184 module=oracle previous_vote_period=940184 vote_period=5
+Jan 09 14:35:39 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:39 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:39 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF skipping until next voting period current_vote_period=940184 module=oracle previous_vote_period=940184 vote_period=5
+Jan 09 14:35:40 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG sending websocket message module=oracle msg={"pong":1673271340319} provider=huobi
+Jan 09 14:35:40 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:40 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:40 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF skipping until next voting period current_vote_period=940184 module=oracle previous_vote_period=940184 vote_period=5
+Jan 09 14:35:41 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:41 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:42 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF skipping until next voting period current_vote_period=940184 module=oracle previous_vote_period=940184 vote_period=5
+Jan 09 14:35:43 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:43 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:43 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF skipping until next voting period current_vote_period=940184 module=oracle previous_vote_period=940184 vote_period=5
+Jan 09 14:35:44 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:44 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:44 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF skipping until next voting period current_vote_period=940184 module=oracle previous_vote_period=940184 vote_period=5
+Jan 09 14:35:45 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:45 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:45 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF skipping until next voting period current_vote_period=940184 module=oracle previous_vote_period=940184 vote_period=5
+Jan 09 14:35:45 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG sending websocket message module=oracle msg={"pong":1673271345416} provider=huobi
+Jan 09 14:35:46 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:46 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:46 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF skipping until next voting period current_vote_period=940184 module=oracle previous_vote_period=940184 vote_period=5
+Jan 09 14:35:47 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:47 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:47 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF skipping until next voting period current_vote_period=940184 module=oracle previous_vote_period=940184 vote_period=5
+Jan 09 14:35:48 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:48 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:48 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF skipping until next voting period current_vote_period=940184 module=oracle previous_vote_period=940184 vote_period=5
+Jan 09 14:35:49 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:49 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:49 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF skipping until next voting period current_vote_period=940184 module=oracle previous_vote_period=940184 vote_period=5
+Jan 09 14:35:50 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:50 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:50 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF skipping until next voting period current_vote_period=940184 module=oracle previous_vote_period=940184 vote_period=5
+Jan 09 14:35:50 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG sending websocket message module=oracle msg={"pong":1673271350459} provider=huobi
+Jan 09 14:35:51 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:51 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:51 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF skipping until next voting period current_vote_period=940184 module=oracle previous_vote_period=940184 vote_period=5
+Jan 09 14:35:52 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:52 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:52 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF skipping until next voting period current_vote_period=940184 module=oracle previous_vote_period=940184 vote_period=5
+Jan 09 14:35:53 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:53 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:53 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF skipping until next voting period current_vote_period=940184 module=oracle previous_vote_period=940184 vote_period=5
+Jan 09 14:35:54 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG starting oracle tick module=oracle
+Jan 09 14:35:54 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG executing oracle tick module=oracle
+Jan 09 14:35:54 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF broadcasting vote exchange_rates=ATOM:11.328631667062228429,DAI:0.999722675515265069,ETH:1322.413209647814726295,UMEE:0.006830952222747517,USDC:1.000023929137062697,USDT:0.999817639777866737,WBTC:17275.213925456831568469 feeder=umee1l0pfznlpxhs6tq2thcml8z3etrm2sh2wzpmjx6 module=oracle validator=umeevaloper1yx6dp2hy5ll6qlg6u8zlwgpadyxcnca3m4ldq2
+Jan 09 14:35:55 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM DBG sending websocket message module=oracle msg={"pong":1673271355557} provider=huobi
+Jan 09 14:35:59 vmi791793.contaboserver.net price-feeder[2961999]: 2:35PM INF successfully broadcasted tx module=oracle_client tx_code=0 tx_hash=3A624FB542F521C4A6FBEAA16151F645E4968989E3763EB45814ACB1FD53C1F4 tx_height=0
+Jan 09 14:36:00 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG sending websocket message module=oracle msg={"id":1673271360337,"method":"public/respond-heartbeat"} provider=crypto
+Jan 09 14:36:00 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:00 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:00 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF broadcasting pre-vote feeder=umee1l0pfznlpxhs6tq2thcml8z3etrm2sh2wzpmjx6 hash=f5b00c77c7c7d3b7ebf9755704aba7a027f0b64d module=oracle validator=umeevaloper1yx6dp2hy5ll6qlg6u8zlwgpadyxcnca3m4ldq2
+Jan 09 14:36:00 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG sending websocket message module=oracle msg={"pong":1673271360658} provider=huobi
+Jan 09 14:36:05 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF successfully broadcasted tx module=oracle_client tx_code=0 tx_hash=823CA6349A61AB9F9213F88565AFB15A8BFDB9A982F35B217076F49FD1B7CF55 tx_height=0
+Jan 09 14:36:05 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG sending websocket message module=oracle msg={"pong":1673271365725} provider=huobi
+Jan 09 14:36:06 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:06 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:06 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940185 module=oracle previous_vote_period=940185 vote_period=5
+Jan 09 14:36:07 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:07 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:07 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940185 module=oracle previous_vote_period=940185 vote_period=5
+Jan 09 14:36:08 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:08 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:08 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940185 module=oracle previous_vote_period=940185 vote_period=5
+Jan 09 14:36:09 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:09 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:09 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940185 module=oracle previous_vote_period=940185 vote_period=5
+Jan 09 14:36:10 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:10 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:10 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG sending websocket message module=oracle msg={"pong":1673271370770} provider=huobi
+Jan 09 14:36:10 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940185 module=oracle previous_vote_period=940185 vote_period=5
+Jan 09 14:36:11 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:11 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:11 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940185 module=oracle previous_vote_period=940185 vote_period=5
+Jan 09 14:36:12 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:12 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:13 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940185 module=oracle previous_vote_period=940185 vote_period=5
+Jan 09 14:36:14 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:14 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:14 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940185 module=oracle previous_vote_period=940185 vote_period=5
+Jan 09 14:36:15 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:15 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:15 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940185 module=oracle previous_vote_period=940185 vote_period=5
+Jan 09 14:36:15 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG sending websocket message module=oracle msg={"pong":1673271375843} provider=huobi
+Jan 09 14:36:16 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:16 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:16 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940185 module=oracle previous_vote_period=940185 vote_period=5
+Jan 09 14:36:17 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:17 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:17 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940185 module=oracle previous_vote_period=940185 vote_period=5
+Jan 09 14:36:18 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:18 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:18 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940185 module=oracle previous_vote_period=940185 vote_period=5
+Jan 09 14:36:19 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:19 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:19 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940185 module=oracle previous_vote_period=940185 vote_period=5
+Jan 09 14:36:20 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:20 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:20 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940185 module=oracle previous_vote_period=940185 vote_period=5
+Jan 09 14:36:21 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG sending websocket message module=oracle msg={"pong":1673271380900} provider=huobi
+Jan 09 14:36:21 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:21 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:21 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940185 module=oracle previous_vote_period=940185 vote_period=5
+Jan 09 14:36:22 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:22 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:22 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940185 module=oracle previous_vote_period=940185 vote_period=5
+Jan 09 14:36:23 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:23 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:23 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF broadcasting vote exchange_rates=ATOM:11.331315843215972798,DAI:0.999721143484468126,ETH:1323.013397811168519650,UMEE:0.006824601197843017,USDC:1.000029166102630389,USDT:0.999816454317844196,WBTC:17275.455846311364123955 feeder=umee1l0pfznlpxhs6tq2thcml8z3etrm2sh2wzpmjx6 module=oracle validator=umeevaloper1yx6dp2hy5ll6qlg6u8zlwgpadyxcnca3m4ldq2
+Jan 09 14:36:26 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG sending websocket message module=oracle msg={"pong":1673271385976} provider=huobi
+Jan 09 14:36:29 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF successfully broadcasted tx module=oracle_client tx_code=0 tx_hash=EBD740E1A19915C8985828F24C449E64A47038E87D3206C6E3FADC71C2AF9184 tx_height=0
+Jan 09 14:36:30 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:30 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:30 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF broadcasting pre-vote feeder=umee1l0pfznlpxhs6tq2thcml8z3etrm2sh2wzpmjx6 hash=6257385f308b20dd98cd8c3e420e3d82c608c513 module=oracle validator=umeevaloper1yx6dp2hy5ll6qlg6u8zlwgpadyxcnca3m4ldq2
+Jan 09 14:36:30 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG sending websocket message module=oracle msg={"id":1673271390337,"method":"public/respond-heartbeat"} provider=crypto
+Jan 09 14:36:31 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG sending websocket message module=oracle msg={"pong":1673271391021} provider=huobi
+Jan 09 14:36:35 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF successfully broadcasted tx module=oracle_client tx_code=0 tx_hash=5CFF4D860977CEFA46D0DCA538593A46CC1FD1CC98392CD759B9EDE0CEC90E8D tx_height=0
+Jan 09 14:36:36 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:36 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:36 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940186 module=oracle previous_vote_period=940186 vote_period=5
+Jan 09 14:36:36 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG sending websocket message module=oracle msg={"pong":1673271396100} provider=huobi
+Jan 09 14:36:37 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:37 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:37 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940186 module=oracle previous_vote_period=940186 vote_period=5
+Jan 09 14:36:38 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:38 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:38 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940186 module=oracle previous_vote_period=940186 vote_period=5
+Jan 09 14:36:39 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:39 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:39 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940186 module=oracle previous_vote_period=940186 vote_period=5
+Jan 09 14:36:40 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:40 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:40 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940186 module=oracle previous_vote_period=940186 vote_period=5
+Jan 09 14:36:41 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:41 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:41 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG sending websocket message module=oracle msg={"pong":1673271401152} provider=huobi
+Jan 09 14:36:41 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940186 module=oracle previous_vote_period=940186 vote_period=5
+Jan 09 14:36:42 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:42 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:42 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940186 module=oracle previous_vote_period=940186 vote_period=5
+Jan 09 14:36:43 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:43 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:43 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940186 module=oracle previous_vote_period=940186 vote_period=5
+Jan 09 14:36:44 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:44 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:44 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940186 module=oracle previous_vote_period=940186 vote_period=5
+Jan 09 14:36:45 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:45 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:45 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940186 module=oracle previous_vote_period=940186 vote_period=5
+Jan 09 14:36:46 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG sending websocket message module=oracle msg={"pong":1673271406201} provider=huobi
+Jan 09 14:36:46 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:46 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:46 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940186 module=oracle previous_vote_period=940186 vote_period=5
+Jan 09 14:36:47 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:47 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:47 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940186 module=oracle previous_vote_period=940186 vote_period=5
+Jan 09 14:36:48 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:48 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:48 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940186 module=oracle previous_vote_period=940186 vote_period=5
+Jan 09 14:36:49 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:49 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:49 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940186 module=oracle previous_vote_period=940186 vote_period=5
+Jan 09 14:36:50 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:50 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:50 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940186 module=oracle previous_vote_period=940186 vote_period=5
+Jan 09 14:36:51 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG sending websocket message module=oracle msg={"pong":1673271411277} provider=huobi
+Jan 09 14:36:51 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:51 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:51 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF skipping until next voting period current_vote_period=940186 module=oracle previous_vote_period=940186 vote_period=5
+Jan 09 14:36:52 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:52 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:52 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF broadcasting vote exchange_rates=ATOM:11.332904751425219764,DAI:0.999717191499616332,ETH:1323.087458595186010965,UMEE:0.006821005791941642,USDC:1.000036370467169939,USDT:0.999816498159869786,WBTC:17275.798972016310738957 feeder=umee1l0pfznlpxhs6tq2thcml8z3etrm2sh2wzpmjx6 module=oracle validator=umeevaloper1yx6dp2hy5ll6qlg6u8zlwgpadyxcnca3m4ldq2
+Jan 09 14:36:56 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG sending websocket message module=oracle msg={"pong":1673271416317} provider=huobi
+Jan 09 14:36:58 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF successfully broadcasted tx module=oracle_client tx_code=0 tx_hash=182C02862168127CC18F795F7D4E7265A1A9750455E15A5EE356F586DC95065C tx_height=0
+Jan 09 14:36:59 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG starting oracle tick module=oracle
+Jan 09 14:36:59 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM DBG executing oracle tick module=oracle
+Jan 09 14:36:59 vmi791793.contaboserver.net price-feeder[2961999]: 2:36PM INF broadcasting pre-vote feeder=umee1l0pfznlpxhs6tq2thcml8z3etrm2sh2wzpmjx6 hash=a33b6782bc61f11360e8464151d6730aedba7f8e module=oracle validator=umeevaloper1yx6dp2hy5ll6qlg6u8zlwgpadyxcnca3m4ldq2
+Jan 09 14:37:00 vmi791793.contaboserver.net price-feeder[2961999]: 2:37PM DBG sending websocket message module=oracle msg={"id":1673271420337,"method":"public/respond-heartbeat"} provider=crypto
